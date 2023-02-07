@@ -1,0 +1,17 @@
+.score-item {
+  display: flex;
+  padding: 8px 0;
+}
+.score,
+.description {
+  color: #4a4a4a;
+}
+.score {
+  line-height: 1.5;
+  font-weight: bold;
+  opacity: 63%;
+  width: 55px;
+}
+.description {
+  width: 100%;
+}

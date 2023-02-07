@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  font-size: 18px;
+  align-items: baseline;
+  padding: 30px 0 15px;
+}
+.header {
+  width: 100%;
+}
+.title {
+  font-size: 35px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+.checkbox-container {
+  margin-left: 30px;
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  font-size: 16px;
+}

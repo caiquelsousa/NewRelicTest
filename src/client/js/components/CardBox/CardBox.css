@@ -1,0 +1,12 @@
+:host {
+  display: inline-block;
+  margin: 15px;
+}
+.card-box {
+  padding: 30px;
+  background: #ffffff;
+}
+.title {
+  font-weight: bold;
+  padding-bottom: 23px;
+}
