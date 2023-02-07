@@ -162,7 +162,3 @@ This project uses:
   - construct-style-sheets-polyfill
 
 \*The polyfill is used make the class `CSSStyleSheet` accessible in all browsers,
-
-## About the author
-
-I'm **Caique Lopes Sousa**, born in Brazil but living London at the moment. I'm working as a Senior Frontend Engineer at Spotahome which I'm currently responsable working on the new Design System of the company, creating and evolving the inventory(tokens, components, etc) and merging the react components distributed between all produts into one.
