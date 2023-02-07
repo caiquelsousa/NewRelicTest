@@ -37,6 +37,7 @@ This project was split in 3 milestones:
 - State/Data Flow (Store)
 
 The diagram bellow shows the basic data flow of the project:
+
 ![Structure Diagram](/docs/Structure%20Diagram.png)
 
 #### Presentation Layer
